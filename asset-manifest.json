@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/react-nomad/static/js/main.b0289f64.js",
-    "index.html": "/github.io/react-nomad/index.html",
-    "main.b0289f64.js.map": "/github.io/react-nomad/static/js/main.b0289f64.js.map"
+    "main.js": "/react-nomad/static/js/main.b0289f64.js",
+    "index.html": "/react-nomad/index.html",
+    "main.b0289f64.js.map": "/react-nomad/static/js/main.b0289f64.js.map"
   },
   "entrypoints": [
     "static/js/main.b0289f64.js"
